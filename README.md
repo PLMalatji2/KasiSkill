@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # KasiSkill Starter
 
 A beginner-friendly starter scaffold for the KasiSkill prototype.
@@ -66,3 +67,7 @@ development step. Do not commit `.env` files or passwords to GitHub.
 - Each teammate works on a separate feature branch.
 - Make small commits and open pull requests.
 - Never put real identity documents, private evidence, passwords, or personal data in this starter repo.
+=======
+# KasiSkill
+AI-assisted skills verification and employment platform
+>>>>>>> 820d3b43841695474b3a05b7d94ea29e65ab738f
